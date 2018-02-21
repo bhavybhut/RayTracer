@@ -1,0 +1,8 @@
+﻿  Cube.cpp
+i:\kent\googledrive\advance graphics\raytracer_acg_kent\ray_tracer_zy\raytracer_framework_replace\primitives\cube.h(47): warning C4305: '=': truncation from 'double' to 'float'
+i:\kent\googledrive\advance graphics\raytracer_acg_kent\ray_tracer_zy\raytracer_framework_replace\primitives\cube.h(48): warning C4305: '=': truncation from 'double' to 'float'
+i:\kent\googledrive\advance graphics\raytracer_acg_kent\ray_tracer_zy\raytracer_framework_replace\primitives\cube.h(49): warning C4305: '=': truncation from 'double' to 'float'
+i:\kent\googledrive\advance graphics\raytracer_acg_kent\ray_tracer_zy\raytracer_framework_replace\primitives\cube.h(58): warning C4305: '=': truncation from 'double' to 'float'
+i:\kent\googledrive\advance graphics\raytracer_acg_kent\ray_tracer_zy\raytracer_framework_replace\primitives\cube.cpp(24): warning C4101: 'r_vector': unreferenced local variable
+  RayTracer.vcxproj -> I:\Kent\GoogleDrive\Advance Graphics\raytracer_acg_kent\ray_tracer_zy\RayTracer_Framework_Replace\Debug\RayTracer.exe
+  RayTracer.vcxproj -> I:\Kent\GoogleDrive\Advance Graphics\raytracer_acg_kent\ray_tracer_zy\RayTracer_Framework_Replace\Debug\RayTracer.pdb (Full PDB)
